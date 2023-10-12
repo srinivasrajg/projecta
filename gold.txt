@@ -1,3 +1,6 @@
 gold price is 6k
 
 gold is price intermittent 
+
+
+another gold line
