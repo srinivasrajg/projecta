@@ -1,5 +1,5 @@
 SmartBear On-Premise License Terms of Use 
-
+done
 This SmartBear On-Premise License Terms of Use is a legal agreement between You and SmartBear (as defined in Section 2 below) that governs your license and use of our proprietary Software whether purchased directly from SmartBear or a Reseller ("EULA" or "Agreement").
 
 BY ACCEPTING THIS AGREEMENT, EITHER BY (1) CLICKING A BOX INDICATING YOUR ACCEPTANCE OR (2) EXECUTING A QUOTE OR ORDER THAT REFERENCES THIS AGREEMENT, YOU AGREE TO THE TERMS OF THIS AGREEMENT. IF YOU ARE ENTERING INTO THIS AGREEMENT ON BEHALF OF A COMPANY OR OTHER LEGAL ENTITY, YOU REPRESENT THAT YOU HAVE THE AUTHORITY TO BIND SUCH ENTITY AND ITS AFFILIATES TO THIS AGREEMENT.
